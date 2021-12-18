@@ -492,7 +492,7 @@ footer a:hover
 
 
 
-/* Pour tablettes écrans entre 769px et 991px*/
+/* Pour tablettes écrans entre 768px et 991px*/
 
 @media screen and (min-width:768px) and (max-width: 991px) 
 {
@@ -607,7 +607,7 @@ footer a:hover
     
 }
 
-/* Pour téléphones écrans moins de 769px*/
+/* Pour téléphones écrans maximum 767px*/
 
 @media screen and (max-width:767px)
     {
